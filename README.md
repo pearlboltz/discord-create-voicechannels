@@ -15,8 +15,8 @@
 
 ## Установка
 1. Требования
-* Node.js
-* Создать своего бота
+    * Node.js
+    * Создать своего бота
 
 2. Скачайте репозиторий
 
@@ -59,12 +59,12 @@ GUILD_ID:
   2. Копировать ID Канала
 
 5. Приглашение бота на ваш сервер
-* Перейдите в Discord Developer Portal
-* Выберите ваше приложение - OAuth2 - OAuth2 URL Generator
-* В scopes выберите "bot", "applications.commands"
-* В Bot Permissions выберите Manage Channels, Move Members, Connect, View Channels
-* Скопируйте полученную ссылку и вставьте её в адрессную строку
-* Выберите ваш сервер и авторизуйте бота
+    * Перейдите в Discord Developer Portal
+    * Выберите ваше приложение - OAuth2 - OAuth2 URL Generator
+    * В scopes выберите "bot", "applications.commands"
+    * В Bot Permissions выберите Manage Channels, Move Members, Connect, View Channels
+    * Скопируйте полученную ссылку и вставьте её в адрессную строку
+    * Выберите ваш сервер и авторизуйте бота
 
 6. Запуск бота
 ```
