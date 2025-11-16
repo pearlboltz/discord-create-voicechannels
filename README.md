@@ -37,6 +37,7 @@ const CONFIG = {
 ```
 
 Как получить необходимые ID?
+
 TOKEN:
   1. Перейдите на Discord Developer Portal
   2. Выберите ваше приложение
